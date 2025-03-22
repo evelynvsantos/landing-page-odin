@@ -1,1 +1,1 @@
-# landing-page-odin
+Essa é uma nova landing page que estou criando no The Odin Project, espero que ela realmente fica acessível e bonita.
