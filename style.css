@@ -1,0 +1,143 @@
+.body{
+    font-family: Roboto, sans-serif;
+    margin: 0 auto;
+    
+}
+.header img{
+    width: 250px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    padding: 10px 25%;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.header ul{
+    list-style:none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    gap: 16px;
+}
+
+.container1{
+    background: linear-gradient(45deg, blue, pink);
+    color: whitesmoke;
+    display: flex;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 50px;
+    padding: 60px 25%;
+    gap: 28px;
+}
+.container1 img{
+    width: 450px;
+    border-radius: 10%;
+    align-items: center;
+}
+.content1{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.content1 h1{
+    font-size: 48px;
+    font-weight: 900px;
+}
+.content1 p{
+    font-size: 18px;
+    line-height: 150%;
+}
+.button-contrate{
+    color: white;
+    background-color: #3882f6;
+    border: none;
+    text-decoration: none;
+    font-size: 18px;
+    border-radius: 8px;
+    padding: 5px 25px;
+}
+.container2{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    justify-content: center;
+    padding: 10px 25%;
+}
+.title{
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+    padding: 20px;
+}
+.container2 img{
+    width: 200px;
+}
+
+.container3{
+    display: flex;
+    gap: 38px;
+    padding: 20px;
+    flex-direction: column;
+    background-color: #e5e7eb;
+    padding: 20px 25%;
+}
+.quote{
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+    align-items: center;
+    justify-content: center;
+}
+.content2 img{
+    border-radius: 20%;
+    border: blue 5px solid;
+}
+.text{
+    text-align: center;
+    font-size: 15px;
+    padding: 20px;
+}
+.autor{
+    display: flex;
+    justify-content: right;
+}
+.container-final{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 40px 500px;
+    background-color: #3882f6;
+    border-radius: 20px;
+}
+.content3{
+    background-color: #3882f6;
+    color: white;
+
+}
+.cadastre{
+    color: white;
+    background-color: #3882f6;
+    border: solid 1px;
+    border-color: white;
+    text-decoration: none;
+    font-size: 18px;
+    border-radius: 8px;
+    padding: 5px 25px;
+}
+.footer{
+    display: flex;
+    background-color: #1f2937;
+    color: white;
+    justify-content: center;
+    align-items: end;
+    padding: 30px;
+}
